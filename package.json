@@ -1,5 +1,5 @@
 {
-  "name": "inan-network-scanner",
+  "name": "chia-network-scanner",
   "version": "5.1.1",
   "description": "Scans the Inan network for active full nodes",
   "main": "dist/index.js",
