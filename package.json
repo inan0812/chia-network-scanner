@@ -1,7 +1,7 @@
 {
-  "name": "chia-network-scanner",
+  "name": "inan-network-scanner",
   "version": "5.1.1",
-  "description": "Scans the Chia network for active full nodes",
+  "description": "Scans the Inan network for active full nodes",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freddiecoleman/chia-network-scanner.git"
+    "url": "git+https://github.com/inan0812/chia-network-scanner.git"
   },
   "keywords": [
-    "chia",
+    "inan",
     "cryptocurrency",
     "blockchain",
     "tcp",
@@ -22,9 +22,9 @@
   "author": "Freddie Coleman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freddiecoleman/chia-network-scanner/issues"
+    "url": "https://github.com/inan0812/chia-network-scanner/issues"
   },
-  "homepage": "https://github.com/freddiecoleman/chia-network-scanner#readme",
+  "homepage": "https://github.com/inan0812/chia-network-scanner#readme",
   "devDependencies": {
     "@types/async": "^3.2.3",
     "@types/cbor": "^5.0.1",
