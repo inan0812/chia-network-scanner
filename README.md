@@ -28,11 +28,8 @@ const chiaNetworkScanner = new ChiaNetworkScanner({
     },
 
     startNodes: [{
-        hostname: 'sumo.chia.net',
-        port: 58444,
-    }, {
-        hostname: 'beast.chia.net',
-        port: 58444,
+        hostname: 'introducer.scampool.org',
+        port: 8444,
     }],
 
     // Identifies this peer on the network
